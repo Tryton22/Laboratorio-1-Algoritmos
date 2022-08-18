@@ -3,7 +3,7 @@ Laboratorio 1 del ramo Algoritmos y Estructura de Datos, 2do semestre año 2022,
 
 
 # Creado por:
-- Claudio Larosa
+- Claudio La Rosa
 - Matías Fonseca
 
 
